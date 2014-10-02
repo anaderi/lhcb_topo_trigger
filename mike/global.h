@@ -193,12 +193,12 @@ bool svrPreSel(SVR &svr) {
   if(svr.sumpt < 3e3) return false;
   if(svr.sumipchi2 < svr.n*25) return false;
   if(svr.nlt16 > 1) return false;
-  if(svr.ptau > 2) return false;
+  //  if(svr.ptau > 2) return false;
   return true;
 }
 
 // is truth-level b-hadron in the "good" region?
-bool goodGenB(int bpid, int nbchild, double &pt, double &tau, double &m12, double &m13, double ptcut=2000, double fdrcut=0.1){
+bool goodGenB(int bpid, int nbchild, double &pt, double &tau, double &m12, double &m13, double ptcut=2000, double taucut=0.2){
   int ngood = 0;
   int ngen = DATA.gen_pid->size();
   int npv = DATA.hlt2_pvr_z->size();
@@ -236,13 +236,13 @@ bool goodGenB(int bpid, int nbchild, double &pt, double &tau, double &m12, doubl
       if(pidx==2) p3.SetPxPyPzE(DATA.gen_px->at(gg),DATA.gen_py->at(gg),DATA.gen_pz->at(gg),DATA.gen_e->at(gg));
       pidx++;
     }
-    if(npt500 < 2) continue;
+    //if(npt500 < 2) continue;
     tau = (fdmin/(3e11))*(p4.M()/p4.P()); // tau in s
     tau *= 1e12;
     m12 = (p1+p2).M()/1000.;
     m13 = (p1+p3).M()/1000.;
-    //    if(tau < taucut) continue;
-    if(fdrmax < fdrcut) continue;
+    if(tau < taucut) continue;
+    //if(fdrmax < fdrcut) continue;
     ngood++;
     //    cout << tau << " " << fdmin << endl;
   }
