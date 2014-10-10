@@ -165,7 +165,7 @@ int main(int argc, char *argv[]){
   getval(nfor,nhlt1,pfor,pfore);
   getval(nugb,nhlt1,pugb,pugbe);
 
-  //cout << nl0 << " " << nhlt1 << endl;
+  cout << nl0 << " " << nhlt1 << endl;
   if(bkgd){
     cout << rate_hlt1 << " " << prun1*rate_hlt1 << "+-" << prun1e*rate_hlt1 
 	 << " " << prun1mod*rate_hlt1 << "+-" << prun1mode*rate_hlt1 
