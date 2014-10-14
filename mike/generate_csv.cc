@@ -41,7 +41,7 @@ int main(int argc, char *argv[]){
 
   sprintf(str, "%s/mod_%d.csv", dest_path.c_str(), mode);
   ofstream out(str);
-  out << "# event_id\tsvr\tsignal\tpresel\ttruematch\tsumpt\tm\tmcor\tipchi2\tvchi2\tsumipchi2\tfdr\tnlt16\tminpt\tptau\tq\teta\tpt\tnhlt1\tnmu\tn\tbdt\tfdchi2\tNUMBER\tbtau\n";
+  out << "# event_id\tsvr\tsignal\tpresel\ttruematch\tsumpt\tm\tmcor\tipchi2\tvchi2\tsumipchi2\tfdr\tnlt16\tminpt\tptau\tq\teta\tpt\tnhlt1\tnmu\tn\tbdt\tfdchi2\tNUMBER\tbtau\tis_passed_l0_goodGenB\n";
 
   int nl0=0,nhlt1=0,nhlt2_run1=0,nhlt2_pre=0,nhlt2_run1mod=0;
   int nmn=0,nada=0,nfor=0,nugb=0;
@@ -102,7 +102,8 @@ int main(int argc, char *argv[]){
           << "\t" << svr.bdt
           << "\t" << svr.fdchi2
           << "\t" << e
-          << "\t" << btau << "\n";
+          << "\t" << btau
+	  << "\t" << is_passed << "\n";
     }
   }
   cout << "Total number: " << nent << std::endl;
