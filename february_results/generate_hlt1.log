@@ -1,0 +1,200 @@
+Mode: 13102412
+Events: 31938; No tracks: 0; No sv: 2844
+0.951844 0.582754 0.595905
+
+
+Mode: 11114001
+Events: 61102; No tracks: 0; No sv: 1732
+0.993159 0.87529 0.86912
+
+
+Mode: 11536011
+Events: 13893; No tracks: 0; No sv: 157
+0.995753 0.865616 0.898366
+
+
+Mode: 11102003
+Events: 22317; No tracks: 0; No sv: 982
+0.975758 0.762244 0.759959
+
+
+Mode: 12873002
+Events: 9480; No tracks: 0; No sv: 317
+0.991983 0.775422 0.793882
+
+
+Mode: 12875500
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.12875500.root
+
+Mode: 13246001
+Events: 37313; No tracks: 0; No sv: 838
+0.995685 0.908263 0.906038
+
+
+Mode: 25103000
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.25103000.root
+
+Mode: 25103110
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.25103110.root
+
+Mode: 12165106
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.12165106.root
+
+Mode: 12873432
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.12873432.root
+
+Mode: 11124001
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.11124001.root
+
+Mode: 13264021
+Events: 25165; No tracks: 0; No sv: 398
+0.995112 0.877965 0.89847
+
+
+Mode: 13104012
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.13104012.root
+
+Mode: 11874042
+Events: 3942; No tracks: 0; No sv: 97
+0.995941 0.802385 0.834602
+
+
+Mode: 13144020
+Events: 39278; No tracks: 0; No sv: 1119
+0.993228 0.878736 0.87479
+
+
+Mode: 11296013
+Events: 17149; No tracks: 0; No sv: 84
+0.998834 0.932591 0.947927
+
+
+Mode: 27163002
+Events: 848; No tracks: 0; No sv: 129
+0.913915 0.540094 0.517689
+
+
+Mode: 11874004
+Events: 27212; No tracks: 0; No sv: 580
+0.994671 0.822248 0.846649
+
+
+Mode: 20000000
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.20000000.root
+
+Mode: 11104121
+Events: 21960; No tracks: 0; No sv: 1361
+0.969262 0.62582 0.645719
+
+
+Mode: 23103110
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.23103110.root
+
+Mode: 13144001
+Events: 54266; No tracks: 0; No sv: 1379
+0.993937 0.890981 0.886485
+
+
+Mode: 12103035
+Events: 25250; No tracks: 0; No sv: 713
+0.98602 0.847485 0.851406
+
+
+Mode: 21263002
+Events: 8871; No tracks: 0; No sv: 836
+0.955022 0.652238 0.659227
+
+
+Mode: 13112001
+Events: 34736; No tracks: 0; No sv: 1325
+0.989377 0.822691 0.819899
+
+
+Mode: 30000000
+Events: 111306; No tracks: 786; No sv: 73271
+0.861211 0.0946041 0.0868237
+
+
+Mode: 15164001
+Events: 7130; No tracks: 0; No sv: 143
+0.992146 0.88864 0.88906
+
+
+Mode: 27265001
+Events: 871; No tracks: 0; No sv: 144
+0.9093 0.463835 0.438576
+
+
+Mode: 13774002
+Events: 12589; No tracks: 0; No sv: 349
+0.993169 0.818016 0.849154
+
+
+Mode: 13102201
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+
+Mode: 27163400
+Events: 380; No tracks: 0; No sv: 89
+0.876316 0.355263 0.347368
+
+
+Mode: 12265042
+Events: 0; No tracks: 0; No sv: 0
+-nan -nan -nan
+
+Error in <TChain::LoadTree>: Cannot find tree with name data in file /moosefs/notebook/analysis/topo_triggers/data_february/Topo/skims/small.12265042.root
+
+Mode: 13512010
+Events: 43379; No tracks: 0; No sv: 3056
+0.973075 0.646949 0.661703
+
+
+Mode: 12103121
+Events: 22180; No tracks: 0; No sv: 3517
+0.90239 0.0954914 0.115059
+
+
+Mode: 11114101
+Events: 36257; No tracks: 0; No sv: 2246
+0.984693 0.671429 0.685302
+
+
+Mode: 15512011
+Events: 27799; No tracks: 0; No sv: 2047
+0.966042 0.626497 0.635275
+
+
+Mode: 27265101
+Events: 2192; No tracks: 0; No sv: 507
+0.855383 0.284215 0.264142
+
+
